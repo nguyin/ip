@@ -14,7 +14,7 @@ Expected outcome :
 
 Program shows the todo that has been added to the list and the total number of tasks in the list.
 ```
-Ok! I've added this task:
+Ok! I've added this task for you <3 :
 [T][ ] Read book to my boyfriend
 Now you have 5 tasks in your list uwu
 ```
@@ -36,7 +36,7 @@ Expected outcome :
 Program shows the deadline that has been added to the list and the total number of tasks in the list.
 
 ```
-Ok! I've added this task:
+Ok! I've added this task for you <3 :
   [D][ ] Break up with Boyfriend (by: 1st October 2359)
 Now you have 4 tasks in your list uwu
 ```
@@ -56,7 +56,7 @@ Expected outcome :
 
 Program shows the event that has been added to the list and the total number of tasks in the list.
 ```
-Ok! I've added this task:
+Ok! I've added this task for you <3 :
   [E][ ] Spend time with Boyfriend (at: 2nd October 0000)
 Now you have 4 tasks in your list uwu
 ```
@@ -73,7 +73,7 @@ Expected outcome :
 
 Program will show the whole task list with all the remaining tasks left.
 ```
-Here are the tasks in your list:
+Here are the tasks in your list bby:
 1.   [E][ ] Go on a date with my boyfriend (at: Wed)
 2.   [D][X] Break up with my boyfriend (by: 1st Oct 2359)
 3.   [E][ ] Spend time with Boyfriend (at: 2nd October 0000)
@@ -97,7 +97,8 @@ Expected outcome :
 
 Program will show the task that has been marked as completed.
 ```
-Good job! I've marked this task as done:
+Good job bby! You're so productive :3
+I've marked this task as done:
   [D][X] Break up with my boyfriend (by: 1st Oct 2359)
 ```
 
@@ -116,7 +117,7 @@ Expected outcome :
 
 Program will show the task that has been recently deleted, the remaining number of tasks left in the list and the task list with the remaining tasks.
 ```
-Okies! I've removed this task <3 :
+Okies bby! I've removed this task <3 :
   [T][ ] Buy a gift for my boyfriend
 Now you have 1 tasks in your list uwu
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
@@ -145,7 +146,7 @@ Expected outcome :
 
 Program returns a list with all the matching tasks.
 ```
-Here are the matching tasks in your list:
+Here are the matching tasks in your list bby:
 1.   [T][ ] Read Book
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 ```
@@ -161,4 +162,12 @@ Expected outcome :
 
 ```
 Goodbye. I will miss you sooo much :(
+
+        **   **    
+       **** **** 
+       *********
+        *******
+         *****
+          ***
+           *
 ```
